@@ -22,10 +22,6 @@
 </div>
 
 
+### Linguagem que mais utilizo:
 
-
-
-
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielImolene)](https://github.com/GabrielImolene)
